@@ -1,0 +1,3 @@
+->create 3 new empty folders in main Folder with names Attendance, Trainingimage, Trainingimagelabel
+->Install All Linraries that is imported in train.py file
+->Run train.py File
